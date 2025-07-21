@@ -1,11 +1,12 @@
 **SMP Rules**
 %#ff0000%No Advertising%#%
 %#ff0000%No Exploits%#%
+%#ff0000%PvP Etiquette (both partys must agree before any pvp)%#%
 %#ff0000%No Griefing or Stealing%#%
 %#ff0000%No Cheating or Hacking%#%
 %#ff0000%No Building bases within 500 blocks of spawn%#%
 %#00ff00%Shops and other community buildings allowed in,%#%
-%#ff0000%community areas%#%
+%#00ff00%community areas%#%
 %#ff0000%PvP Etiquette%#%
 %#00ff00%Respect Others%#%
 %#00ff00%Keep Chat Clean%#%
